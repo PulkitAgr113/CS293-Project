@@ -1,0 +1,9 @@
+The following is the basic outline of how I aim to proceed with the project, to get a project worth 1500 lines:
+
+1. Make separate functions to plot the Mandelbrot Set with different algorithms such as Escape Time (unoptimized and optimized), Continuous Coloring, and so on.
+
+2. Compare these methods with different metrics like runtime and quality.
+
+3. Give option to the user to zoom into the fractal with a click of the mouse at some point.
+
+4. Use a stack to save the state of the previous few windows, to able to implement the zoom out option as well.
